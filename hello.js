@@ -1,4 +1,5 @@
-var surnom ="Toto";
+var surnom =""
+var surnom ="Tina";
 var y_ nom = "mukakanyenzi";
 var pren = "tina";
   function cmtTPT(){
